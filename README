@@ -1,0 +1,13 @@
+##Assignment 2 - RL
+
+The codes main.py and wormhole.py accept the following command line inputs:
+
+Input 1: txt file
+Input 2: reward
+Input 3: gamma
+Input 4: running time
+Input 5: transition model P 
+
+Examples: 
+python main.py intermediate.txt -0.1 0.9 5 0.75
+python wormhole.py gridworld_wormhole.txt -0.1 0.9 5 0.75
